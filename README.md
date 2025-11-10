@@ -1,4 +1,4 @@
-#Building RAG system - HW2
+# Building RAG system - HW2
 ---
 
 ### 🏗️ Overview
